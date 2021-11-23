@@ -1,6 +1,6 @@
 const router = require("express").Router()
 // for handelbars
- const homeRoutes = require("./home-routes")
+ const homeRoutes = require("./home-routes.js")
  
 const apiRoutes = require("./api");
 
